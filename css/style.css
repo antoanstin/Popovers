@@ -1,0 +1,58 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.feature-sec{
+	padding:180px 0;
+}
+.container{
+	width:40%;
+	margin:auto;
+	
+}
+.feature-row{
+	display:flex;
+	justify-content:space-between;
+
+	
+}
+.btn{
+	cursor:pointer;
+	width:230px;
+	height:50px;
+	padding:10px;
+	border-radius:10px;
+	font-size:22px;
+	color:white;
+	background-color:red;
+}
+.popover{
+	border:1px solid #ccc;
+	width:300px;
+	border-radius:10px;
+}
+h2{
+	background-color:#ccc;
+	padding:10px;
+	border-top-right-radius:10px;
+	border-top-left-radius:10px;
+}
+p{
+	padding:10px;
+	font-size:17px;
+}
+.hide{
+	display:none;
+}
+
+
+
+
+
+
+
+
+
+
+
